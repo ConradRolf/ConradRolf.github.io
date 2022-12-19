@@ -1,6 +1,6 @@
 body{
   background-color: DarkSlateGray;
-  margin: 100px;
+  margin: 15% 20%;
 }
 
 .header{
@@ -18,7 +18,7 @@ body{
 
 img{
   width: 100%;
-  height: 120px;
+  height: 70%;
 }
 
 .body1{
