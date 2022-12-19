@@ -1,0 +1,52 @@
+body{
+  background-color: DarkSlateGray;
+}
+
+.header{
+  background-color: HoneyDew;
+  font-family: serif, arial, sans-serif;
+  margin: 20px;
+  padding: 1px;
+  font-size: 90%;
+}
+
+.picture{
+  margin: 10px;
+  border: 2px solid black
+}
+
+img{
+  width: 100%
+}
+
+.body1{
+  background-color: HoneyDew;
+  margin: 20px;
+  padding: 5px;
+  border: 2px solid black;
+  font-family: serif, arial, sans-serif;
+}
+
+.picture2{
+  margin: 10px;
+  border: 2px solid black
+}
+
+.body2{
+  background-color: HoneyDew;
+  margin: 20px;
+  padding: 5px;
+  border: 2px solid black;
+  font-family: serif, arial, sans-serif;
+}
+
+.skills{
+  background-color: HoneyDew;
+  margin: 20px;
+  padding: 5px;
+  border: 2px solid black;
+}
+
+li, p, td{
+  font-size: 80%;
+}
