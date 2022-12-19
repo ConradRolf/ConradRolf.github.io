@@ -1,7 +1,6 @@
 body{
   background-color: DarkSlateGray;
   margin: 15% 20%;
-  text-align: center;
 }
 
 .header{
@@ -10,6 +9,7 @@ body{
   margin: 20px;
   padding: 1px;
   font-size: 90%;
+  text-align:center;
 }
 
 .picture{
@@ -48,6 +48,15 @@ img{
   margin: 20px;
   padding: 5px;
   border: 2px solid black;
+}
+
+.center{ 
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h3{
+  text-align: center;
 }
 
 li, p, td{
